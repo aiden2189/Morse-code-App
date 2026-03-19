@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Morse Tapper",
-    "slug": "morse-tapper",
+    "slug": "morse-code-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "backgroundColor": "#080600",
