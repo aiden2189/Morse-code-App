@@ -5,6 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "backgroundColor": "#080600",
+    "splash": {
+      "backgroundColor": "#080600"
+    },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#080600"
