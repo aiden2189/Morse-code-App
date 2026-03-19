@@ -14,6 +14,10 @@
         "android.permission.VIBRATE"
       ]
     },
-
+    "extra": {
+      "eas": {
+        "projectId": "9f0fa391-1646-41e0-992b-554ea2a41ea5"
+      }
+    }
   }
 }
